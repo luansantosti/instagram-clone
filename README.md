@@ -1,2 +1,2 @@
 # instagram-clone
-Rockeatseat course
+Rocketseat course
